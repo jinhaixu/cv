@@ -1,1 +1,2 @@
-# cv
+$ cd Code
+$ mkdir CV && cd CV
